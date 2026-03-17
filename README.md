@@ -1,7 +1,6 @@
-# Sriyamk-Receipt-and-Invoice-Digitizer-TeamD
-Infosys project
 # Receipt & Invoice Digitizer — Individual Contribution
 
+> **Author:** Sriya Muthukumar  
 > **Role:** Team Lead · Frontend Developer · UI/UX Designer  
 > **Team Project:** Receipt & Invoice Digitizer  
 > **My Repository:** Individual frontend contribution
